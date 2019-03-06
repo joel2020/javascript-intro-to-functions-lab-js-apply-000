@@ -1,7 +1,5 @@
 let shout = function (hello)
-  return (HELLO)shout(string) {
-  it('hello')
-  return string.toUppercase()
+  return (HELLO)
 }
 
 function whisper(string) {
