@@ -1,0 +1,3 @@
+let shout = function (shout) {
+  
+}
