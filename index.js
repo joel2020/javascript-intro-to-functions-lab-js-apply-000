@@ -1,4 +1,5 @@
-let shout = function shout(string) {
+let shout = function (hello)
+  return (HELLO)shout(string) {
   it('hello')
   return string.toUppercase()
 }
